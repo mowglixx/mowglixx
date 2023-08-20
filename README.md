@@ -1,5 +1,5 @@
 # :ok_hand:
 
-- 🌱 I’m always learning MERN
-- 👯 I’m looking to collaborate on JavaScript, Python and Docker Projects
-- 💬 Ask me about Linux and Docker
+- 🌱 I’m always learning something
+- 👯 I’m looking to learn more Typescript
+- 💬 Don't ask me about Docker
