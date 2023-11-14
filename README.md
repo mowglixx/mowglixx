@@ -42,8 +42,8 @@
 - Infrastructure Stuff
 - Cryptography, kinda...
     - SSH Keys :crown:
-    - <abbr title="Pretty Good Protection">PGP</abbr>
+    - <abbr title="Pretty Good Privacy">PGP</abbr>
 - <abbr title="Free Open Source Software">FOSS</abbr>
 - <abbr title="Free Open Source Hardware">FOSH</abbr>
 
-I'm learning about 3D Printing and CAD, I would like to make some IOT Devices before I die on Mars. 🚀
+I'm learning about 3D Printing and CAD, I would like to make some robots before I die on Mars. 🚀
