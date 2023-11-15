@@ -1,9 +1,10 @@
 
 # :wave: Howdy, I'm Dan!
 
-> "I'm the guy that built computers since the age of 8 with his Grandad, John"
->
->\- _Dan M, 2023_
+> I'm the guy that built computers since the age of 8 with his Grandad, John.
+
+_Dan M, 2023_
+
 
 ## Meat and 'taters
 
@@ -19,17 +20,27 @@
     - SSH Keys
     - <abbr title="Pretty Good Privacy">PGP</abbr>
 
+### Trophies
+
+#### Personal: @mowglixx
+[![trophies](https://github-profile-trophy.vercel.app/?username=mowglixx&theme=nord&column=3)](https://github.com/mowglixx)
+
+#### Work: @purplebearddan
+[![protrophies](https://github-profile-trophy.vercel.app/?username=purplebearddan&theme=nord&column=3)](https://github.com/purplebearddan)
+
+
 ## Current Interest
 
 I'm learning about 3D Printing, I would like to make some robots at some point. :robot:
 
 ## Portfolio
 
+
 ### Key
 
 | Meaning           |Icon                    |
 |------------------:|:-----------------------|
-| Love it           | :ok_hand:                |
+| Love it           | :ok_hand:              |
 | RIP / EOL         | :skull_and_crossbones: |
 | Currently Running | :crown:                |
 |                   |                        |
@@ -62,31 +73,26 @@ I'm learning about 3D Printing, I would like to make some robots at some point. 
         - pfSense
         - OPNsense
 
-
-
 ## Languages I know, *so far...* :supervillain:
 
 I could pick up some languages in a couple days if the syntax isn't nightmare fuel. Docs help. Videos even better.
 
 - Data Storage Languages
-    - `.json`
-    - `.yaml`
-    - `.html`
-    - `.css`
-    - `.xml`
-- Scripting / Interpreted Languages
-    - `.sh`
-    - `.py`
-    - `.js`
-        - Common JS
-        - ESM
-    - `.jsx`
-        - Vite
-        - Next JS
-    - `.tsx`
-        - Vite
-        - Next JS
-    - ``
+    - <abbr title="Markdown">MD</abbr>
+    - <abbr title="JavaScript Object Notation">JSON</abbr>
+    - <abbr title="Yet Another Markup Language">YAML</abbr>
+    - <abbr title="Hyper Text Markup Language">HTML</abbr>
+    - <abbr title="Cascading Stylesheets">CSS</abbr>
+    - <abbr title="Extensible Markup Language">XML</abbr>
+- Interpreted Languages
+    - <abbr title="Python 3">PY</abbr>
+    - <abbr title="JavaScript">JS</abbr>
+    - <abbr title="React JavaScript">JSX</abbr>
+- Transpiled Languages
+    - <abbr title="TypeScript">TS</abbr>
+    - <abbr title="React Typescript">TSX</abbr>
+- Scripting Languages
+    - <abbr title="Bash Shell Script">SH</abbr>
 
 ## Current Hardware
 
@@ -147,4 +153,4 @@ I could pick up some languages in a couple days if the syntax isn't nightmare fu
 
 ## Finally
 
-Call Me :mega:
+\*dab\*
