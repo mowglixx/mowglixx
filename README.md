@@ -25,10 +25,6 @@ _Dan M, 2023_
 #### Personal: @mowglixx
 [![trophies](https://github-profile-trophy.vercel.app/?username=mowglixx&theme=nord)](https://github.com/mowglixx)
 
-#### Work: @purplebearddan
-[![protrophies](https://github-profile-trophy.vercel.app/?username=purplebearddan&theme=nord)](https://github.com/purplebearddan)
-
-
 ## Current Interest
 
 I'm learning about 3D Printing, I would like to make some robots at some point. :robot:
