@@ -1,5 +1,5 @@
 
-# :wave: Howdy, I'm Dan!
+# :wave: Howdy, I'm [Dan](https://www.linkedin.com/in/mowglixx)!
 
 > I'm the guy that built computers since the age of 8 with his Grandad, John.
 
