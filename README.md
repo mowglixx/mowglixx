@@ -39,7 +39,6 @@ I'm learning about 3D Printing, I would like to make some robots at some point. 
 | Love it           | :ok_hand:              |
 | RIP / EOL         | :skull_and_crossbones: |
 | Currently Running | :crown:                |
-|                   |                        |
 
 ### Operating Systems I've used
 
