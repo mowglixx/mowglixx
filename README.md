@@ -104,33 +104,7 @@ I could pick up some languages in a couple days if the syntax isn't nightmare fu
     - AMD RX 580 8Gb
     - 1Tb SSD
       - NTFS 😞
-    - 2 75Hz Freesync Monitors
-        - 2k Samsung
-        - 1080p... LG? idk, I'm not at home rn
-    - Bush Soundbar with Wireless Subwoofer :ok_hand:
-    - Blue Yeti Snowball Microphone
-
-### Work Laptop
-- Dell Inspiron 15 5510
-  - :heart: Arch Linux
-    - Kernel 6.5.10-hardened
-    - Gnome 45.1
-    - Wayland
-  - Intel® Core™ i5-11320H
-  - 32 Gb RAM
-  - 512 Gb SSD
-    - LUKS encrypted Btrfs
-
-### <abbr title="Single Board Computer">SBC</abbr>
-
-- Raspberry Pi 4B 8Gb Model
-  - Card: 128Gb Sandisk Micro SD
-  - Case: Chinese Food Container
-
-### Android TV Box 
-
-- 1st Gen Nvidia Sheild TV 
-  - OG Sheild Controller
+    - 1 4k Monitor
 
 ### Retro Handheld 
 
